@@ -1,0 +1,72 @@
+<!--
+  The defenses
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 02-patent-enforcement
+  Figure: 04
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/02-patent-enforcement-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">The defenses</title>
+  <desc>An accused infringer can raise several independent defenses — invalidity, non-infringement, inequitable conduct, prosecution-history estoppel, and patent exhaustion — each a distinct ground.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="02-patent-enforcement" figure-number="04" figure-title="The defenses" figure-slug="the-defenses" figure-type="Conceptual map" priority="Important" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/02-patent-enforcement-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">Defenses to Infringement</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Five independent grounds — multiple may be raised in parallel</text>
+
+  <!-- Central node -->
+  <rect x="270" y="92" width="160" height="60" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="118" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">Accused infringer</text>
+  <text x="350" y="136" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">may assert</text>
+
+  <!-- Five defense nodes -->
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif">
+    <rect x="32" y="200" width="124" height="74" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="94" y="222" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">Invalidity</text>
+    <text x="94" y="240" text-anchor="middle" font-size="10" fill="#545454">never should</text>
+    <text x="94" y="254" text-anchor="middle" font-size="10" fill="#545454">have issued;</text>
+    <text x="94" y="268" text-anchor="middle" font-size="10" fill="#545454">clear &amp; convincing</text>
+
+    <rect x="164" y="200" width="124" height="74" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="226" y="222" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">Non-</text>
+    <text x="226" y="238" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">infringement</text>
+    <text x="226" y="256" text-anchor="middle" font-size="10" fill="#545454">missing a</text>
+    <text x="226" y="270" text-anchor="middle" font-size="10" fill="#545454">claim element</text>
+
+    <rect x="296" y="200" width="124" height="74" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="358" y="222" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">Inequitable</text>
+    <text x="358" y="238" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">conduct</text>
+    <text x="358" y="256" text-anchor="middle" font-size="10" fill="#545454">misled USPTO;</text>
+    <text x="358" y="270" text-anchor="middle" font-size="10" fill="#545454">Therasense 2011</text>
+
+    <rect x="428" y="200" width="124" height="74" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="490" y="222" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">Prosecution-</text>
+    <text x="490" y="238" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">history estoppel</text>
+    <text x="490" y="256" text-anchor="middle" font-size="10" fill="#545454">surrendered</text>
+    <text x="490" y="270" text-anchor="middle" font-size="10" fill="#545454">scope barred</text>
+
+    <rect x="560" y="200" width="108" height="74" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="614" y="222" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">Patent</text>
+    <text x="614" y="238" text-anchor="middle" font-size="12" font-weight="600" fill="#2a1a0e">exhaustion</text>
+    <text x="614" y="256" text-anchor="middle" font-size="10" fill="#545454">rights spent on</text>
+    <text x="614" y="270" text-anchor="middle" font-size="10" fill="#545454">first sale</text>
+  </g>
+
+  <line x1="310" y1="152" x2="110" y2="196" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="330" y1="152" x2="240" y2="196" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="152" x2="356" y2="196" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="370" y1="152" x2="478" y2="196" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="390" y1="152" x2="600" y2="196" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Note -->
+  <rect x="120" y="320" width="460" height="50" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="350" y="342" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Invalidity and non-infringement are independent</text>
+  <text x="350" y="360" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">both can succeed, both can fail, or one can win while the other loses</text>
+</svg>

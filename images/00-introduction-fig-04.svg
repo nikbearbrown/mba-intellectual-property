@@ -1,0 +1,64 @@
+<!--
+  How This Book Is Organized
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 00-introduction
+  Figure: 04
+  Type: Structural schematic
+  Generated: 2026-05-29
+  Source: pantry/00-introduction-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">How This Book Is Organized</title>
+  <desc>Five chapters layered as practical confrontations with one problem: what changes when AI can do part of the IP work but cannot own the consequences.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="00-introduction" figure-number="04" figure-title="How This Book Is Organized" figure-slug="how-this-book-is-organized" figure-type="Structural schematic" priority="Important" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/00-introduction-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">How This Book Is Organized</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Five chapters, layered on one shared question</text>
+
+  <!-- Shared spine -->
+  <rect x="32" y="86" width="636" height="34" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="350" y="108" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Shared problem: AI does the work, but cannot own the consequences</text>
+
+  <!-- Five layered chapter bands with leader numbers -->
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif">
+    <rect x="92" y="140" width="516" height="40" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+    <text x="110" y="165" font-size="13" font-weight="600" fill="#2a1a0e">Patent Basics</text>
+    <text x="598" y="165" text-anchor="end" font-size="11" fill="#545454">grant, term, requirements</text>
+
+    <rect x="92" y="190" width="516" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="110" y="215" font-size="13" font-weight="600" fill="#2a1a0e">Patent Enforcement</text>
+    <text x="598" y="215" text-anchor="end" font-size="11" fill="#545454">infringement, claims, damages</text>
+
+    <rect x="92" y="240" width="516" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="110" y="265" font-size="13" font-weight="600" fill="#2a1a0e">Copyright Basics</text>
+    <text x="598" y="265" text-anchor="end" font-size="11" fill="#545454">expression, fair use, term</text>
+
+    <rect x="92" y="290" width="516" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="110" y="315" font-size="13" font-weight="600" fill="#2a1a0e">Trademark Basics</text>
+    <text x="598" y="315" text-anchor="end" font-size="11" fill="#545454">marks, distinctiveness, confusion</text>
+
+    <rect x="92" y="340" width="516" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="110" y="365" font-size="13" font-weight="600" fill="#2a1a0e">Trade Secret Basics</text>
+    <text x="598" y="365" text-anchor="end" font-size="11" fill="#545454">secrecy, misappropriation</text>
+  </g>
+
+  <!-- Numbered leader lines -->
+  <g font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#545454">
+    <text x="52" y="165" text-anchor="middle">1</text>
+    <text x="52" y="215" text-anchor="middle">2</text>
+    <text x="52" y="265" text-anchor="middle">3</text>
+    <text x="52" y="315" text-anchor="middle">4</text>
+    <text x="52" y="365" text-anchor="middle">5</text>
+  </g>
+  <line x1="58" y1="160" x2="88" y2="160" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="58" y1="210" x2="88" y2="210" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="58" y1="260" x2="88" y2="260" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="58" y1="310" x2="88" y2="310" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="58" y1="360" x2="88" y2="360" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+</svg>

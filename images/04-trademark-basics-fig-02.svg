@@ -1,0 +1,61 @@
+<!--
+  4.2 What a trademark is
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 04-trademark-basics
+  Figure: 02
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/04-trademark-basics-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">What a trademark is</title>
+  <desc>A trademark is a source identifier under the Lanham Act, spanning marks, service marks and trade dress, whose central goal is preventing consumer confusion.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="04-trademark-basics" figure-number="02" figure-title="What a trademark is" figure-slug="what-a-trademark-is" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/04-trademark-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="16" fill="#2a1a0e" font-weight="600">What a trademark is</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">A source identifier under the Lanham Act (1946); its central goal is preventing consumer confusion.</text>
+
+  <!-- central anchor -->
+  <rect x="262" y="170" width="176" height="64" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="196" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">TRADEMARK</text>
+  <text x="350" y="213" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">word, symbol, design that</text>
+  <text x="350" y="227" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">identifies a SOURCE</text>
+
+  <!-- three forms across the top -->
+  <rect x="60" y="90" width="160" height="50" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="140" y="111" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Marks for goods</text>
+  <text x="140" y="127" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Nike swoosh, logos</text>
+
+  <rect x="270" y="90" width="160" height="50" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="111" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Service marks</text>
+  <text x="350" y="127" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">marks for services</text>
+
+  <rect x="480" y="90" width="160" height="50" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="560" y="111" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Trade dress</text>
+  <text x="560" y="127" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">shape, packaging</text>
+
+  <!-- arrows from forms into central -->
+  <line x1="140" y1="140" x2="290" y2="168" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="140" x2="350" y2="166" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="560" y1="140" x2="410" y2="168" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- goals below -->
+  <rect x="120" y="290" width="200" height="54" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="220" y="313" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Primary goal:</text>
+  <text x="220" y="329" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">prevent consumer confusion</text>
+
+  <rect x="380" y="290" width="200" height="54" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="480" y="313" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Secondary goal:</text>
+  <text x="480" y="329" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">protect brand investment</text>
+
+  <line x1="320" y1="234" x2="240" y2="286" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="380" y1="234" x2="460" y2="286" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="32" y="386" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Rights can arise from common-law use; federal registration is administered by the USPTO.</text>
+</svg>

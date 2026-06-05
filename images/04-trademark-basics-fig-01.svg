@@ -1,0 +1,65 @@
+<!--
+  4.1 Opening: When a brand name becomes a verb
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 04-trademark-basics
+  Figure: 01
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/04-trademark-basics-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">When a brand name becomes a verb</title>
+  <desc>A trademark identifies a source; when a mark drifts into use as the name of the category, it suffers genericide and protection collapses.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="04-trademark-basics" figure-number="01" figure-title="When a brand name becomes a verb" figure-slug="when-a-brand-name-becomes-a-verb" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/04-trademark-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="16" fill="#2a1a0e" font-weight="600">When a brand name becomes a verb</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">A mark protects a source; lose that function and the protection collapses (genericide).</text>
+
+  <!-- Central anchor -->
+  <rect x="270" y="110" width="160" height="58" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="135" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">TRADEMARK</text>
+  <text x="350" y="153" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">identifies the SOURCE</text>
+
+  <!-- Supporting: source-identifying function -->
+  <rect x="60" y="110" width="150" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="135" y="134" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">Source-identifying</text>
+  <text x="135" y="150" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">function performs</text>
+
+  <!-- evidence/condition: too-successful marketing -->
+  <rect x="490" y="110" width="150" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="565" y="134" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">Marketing too</text>
+  <text x="565" y="150" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">successful</text>
+
+  <!-- limiting condition: name becomes the category -->
+  <rect x="270" y="250" width="160" height="58" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="350" y="274" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Name becomes the</text>
+  <text x="350" y="290" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">CATEGORY (genericide)</text>
+
+  <!-- reader takeaway -->
+  <rect x="60" y="250" width="150" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="135" y="274" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Aspirin, escalator,</text>
+  <text x="135" y="290" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">thermos, zipper</text>
+
+  <!-- takeaway: protection lost -->
+  <rect x="490" y="250" width="150" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="565" y="274" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">Protection lost;</text>
+  <text x="565" y="290" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">term is public domain</text>
+
+  <!-- arrows -->
+  <line x1="210" y1="139" x2="266" y2="139" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="490" y1="139" x2="434" y2="139" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="168" x2="350" y2="246" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="270" y1="279" x2="214" y2="279" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="430" y1="279" x2="486" y2="279" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="360" y="208" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454" font-style="italic">drifts into common usage</text>
+
+  <text x="32" y="360" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Bayer v. United Drug Co. (1921): the mark "Aspirin" no longer identified a source, so it was canceled.</text>
+  <text x="32" y="378" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Trademark rights are use-dependent: holders must police usage to keep the mark tethered to its source.</text>
+</svg>

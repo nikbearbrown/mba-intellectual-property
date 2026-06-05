@@ -1,0 +1,56 @@
+<!--
+  The Running Concept
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 00-introduction
+  Figure: 03
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/00-introduction-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-03">
+  <title id="fig-title-03">The Running Concept</title>
+  <desc>The boundary between execution work AI does well and judgment work humans must own, with the fluency trap as the recurring danger of mistaking polished output for finished work.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="00-introduction" figure-number="03" figure-title="The Running Concept" figure-slug="the-running-concept" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/00-introduction-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">The Running Concept</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">The boundary between execution and judgment</text>
+
+  <!-- Dividing line -->
+  <line x1="350" y1="90" x2="350" y2="330" stroke="#2a1a0e" stroke-width="1" stroke-dasharray="5 4"/>
+
+  <!-- Execution side -->
+  <rect x="44" y="92" width="270" height="26" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="179" y="110" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">EXECUTION — AI is strong here</text>
+
+  <rect x="44" y="130" width="270" height="62" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="179" y="153" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">generating, summarizing,</text>
+  <text x="179" y="170" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">transforming, classifying,</text>
+  <text x="179" y="187" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">drafting, coding, searching</text>
+
+  <!-- Judgment side -->
+  <rect x="386" y="92" width="270" height="26" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="521" y="110" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#C8102E">JUDGMENT — the human owns this</text>
+
+  <rect x="386" y="130" width="270" height="62" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="521" y="148" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">problem formulation, plausibility</text>
+  <text x="521" y="165" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">auditing, causal interpretation,</text>
+  <text x="521" y="182" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">ethics, accountability</text>
+
+  <!-- The fluency trap -->
+  <rect x="200" y="250" width="300" height="60" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="350" y="274" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">The fluency trap</text>
+  <text x="350" y="292" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">polished output ≠ proof the work is done</text>
+
+  <line x1="179" y1="192" x2="280" y2="248" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="521" y1="192" x2="420" y2="248" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="200" y="228" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">fluency can mask</text>
+  <text x="430" y="228" text-anchor="end" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">demands a human test</text>
+
+  <text x="32" y="392" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Watch for the moment a fluent artifact needs a human test before it earns trust.</text>
+</svg>

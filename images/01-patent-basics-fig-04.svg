@@ -1,0 +1,73 @@
+<!--
+  Bargain theory vs. natural rights theory
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 01-patent-basics
+  Figure: 04
+  Type: Comparison panels
+  Generated: 2026-05-29
+  Source: pantry/01-patent-basics-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">Bargain theory vs. natural rights theory</title>
+  <desc>Two justifications for patents compared on the same axes: bargain theory frames a quid pro quo for disclosure with empirically set terms; natural rights theory frames an inherent moral entitlement.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="01-patent-basics" figure-number="04" figure-title="Bargain theory vs. natural rights theory" figure-slug="bargain-theory-vs-natural-rights-theory" figure-type="Comparison panels" priority="Important" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/01-patent-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">Two Justifications for Patents</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Compared on the same four questions</text>
+
+  <!-- Panel headers -->
+  <rect x="40" y="82" width="290" height="34" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="185" y="104" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">Bargain theory</text>
+
+  <rect x="370" y="82" width="290" height="34" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="515" y="104" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">Natural rights theory</text>
+
+  <!-- Row axis labels -->
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">
+    <text x="40" y="142" >CORE CLAIM</text>
+    <text x="40" y="212" >WHY GRANT IT</text>
+    <text x="40" y="282" >TERM LENGTH SET BY</text>
+    <text x="40" y="352" >LEGAL HERITAGE</text>
+  </g>
+
+  <!-- Bargain column cells -->
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">
+    <rect x="40" y="150" width="290" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="56" y="170">Quid pro quo: disclosure</text>
+    <text x="56" y="187">in exchange for exclusivity</text>
+
+    <rect x="40" y="220" width="290" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="56" y="240">Utilitarian — produces more</text>
+    <text x="56" y="257">total innovation</text>
+
+    <rect x="40" y="290" width="290" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="56" y="310">Empirically — only as long</text>
+    <text x="56" y="327">as needed to incentivize</text>
+
+    <rect x="40" y="360" width="290" height="44" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="56" y="382">U.S. Constitution ("promote</text>
+    <text x="56" y="398">the progress...")</text>
+  </g>
+
+  <!-- Natural rights column cells -->
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">
+    <rect x="370" y="150" width="290" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="386" y="170">Inherent moral claim to</text>
+    <text x="386" y="187">one's intellectual labor</text>
+
+    <rect x="370" y="220" width="290" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="386" y="240">Recognizes a pre-existing</text>
+    <text x="386" y="257">right; does not create it</text>
+
+    <rect x="370" y="290" width="290" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="386" y="310">Moral entitlement —</text>
+    <text x="386" y="327">regardless of incentive math</text>
+
+    <rect x="370" y="360" width="290" height="44" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+    <text x="386" y="382">Post-revolutionary French</text>
+    <text x="386" y="398">and continental systems</text>
+  </g>
+</svg>

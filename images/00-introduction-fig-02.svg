@@ -1,0 +1,54 @@
+<!--
+  What This Book Is Not
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 00-introduction
+  Figure: 02
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/00-introduction-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">What This Book Is Not</title>
+  <desc>The book is not a promise AI will solve IP, not a frozen tool manual, and not jurisdiction-specific legal advice; on regulated matters, treat it as a framework and seek qualified guidance.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="00-introduction" figure-number="02" figure-title="What This Book Is Not" figure-slug="what-this-book-is-not" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/00-introduction-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">What This Book Is Not</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Three boundary conditions on what the reader should expect</text>
+
+  <!-- Central node -->
+  <rect x="270" y="100" width="160" height="58" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="124" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">This book is NOT</text>
+  <text x="350" y="142" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">three things</text>
+
+  <!-- Three exclusion nodes -->
+  <rect x="40" y="230" width="184" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="132" y="254" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">A promise AI</text>
+  <text x="132" y="272" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">will solve IP</text>
+
+  <rect x="258" y="230" width="184" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="254" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">A tool manual</text>
+  <text x="350" y="272" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">frozen to one release</text>
+
+  <rect x="476" y="230" width="184" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="568" y="248" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Jurisdiction-specific</text>
+  <text x="568" y="266" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">legal / professional</text>
+  <text x="568" y="282" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">advice</text>
+
+  <!-- Edges -->
+  <line x1="300" y1="158" x2="160" y2="226" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="158" x2="350" y2="226" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="400" y1="158" x2="540" y2="226" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Takeaway -->
+  <rect x="258" y="340" width="184" height="50" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="350" y="362" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Treat as a framework;</text>
+  <text x="350" y="379" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">seek qualified guidance</text>
+  <line x1="350" y1="294" x2="350" y2="336" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+  <text x="360" y="320" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">so, instead</text>
+</svg>

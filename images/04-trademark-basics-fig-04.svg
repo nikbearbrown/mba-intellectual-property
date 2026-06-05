@@ -1,0 +1,68 @@
+<!--
+  4.4 Acquiring trademark rights
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 04-trademark-basics
+  Figure: 04
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/04-trademark-basics-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">Acquiring trademark rights</title>
+  <desc>Two paths to U.S. trademark rights: limited common-law rights from use, and federal USPTO registration that adds nationwide priority and stronger remedies.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="04-trademark-basics" figure-number="04" figure-title="Acquiring trademark rights" figure-slug="acquiring-trademark-rights" figure-type="Conceptual map" priority="Important" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/04-trademark-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="16" fill="#2a1a0e" font-weight="600">Acquiring trademark rights</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Two paths to rights in the U.S.; registration adds nationwide reach on top of use-based rights.</text>
+
+  <!-- root -->
+  <rect x="280" y="84" width="140" height="44" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="350" y="103" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Use a mark</text>
+  <text x="350" y="119" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">in commerce</text>
+
+  <line x1="320" y1="128" x2="200" y2="168" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="380" y1="128" x2="500" y2="168" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Path A: common law -->
+  <rect x="60" y="172" width="240" height="64" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="180" y="194" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Common-law rights</text>
+  <text x="180" y="212" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">from use; no filing. Limited to the</text>
+  <text x="180" y="227" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">actual geographic area of use. Mark: TM</text>
+
+  <!-- Path B: federal registration -->
+  <rect x="400" y="172" width="240" height="64" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="520" y="194" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Federal USPTO registration</text>
+  <text x="520" y="212" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Lanham Act; actual use or intent-to-use.</text>
+  <text x="520" y="227" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Nationwide priority. Registered: the ® symbol</text>
+
+  <!-- registration process flow -->
+  <text x="32" y="278" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Registration process</text>
+
+  <rect x="60" y="292" width="120" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="120" y="313" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">File application</text>
+  <text x="120" y="328" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">mark + goods</text>
+
+  <rect x="220" y="292" width="120" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="280" y="313" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">USPTO examines</text>
+  <text x="280" y="328" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">conflicts, defects</text>
+
+  <rect x="380" y="292" width="120" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="440" y="313" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">Published for</text>
+  <text x="440" y="328" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">opposition (30 days)</text>
+
+  <rect x="540" y="292" width="120" height="48" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="600" y="313" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Registration</text>
+  <text x="600" y="328" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">issues</text>
+
+  <line x1="180" y1="316" x2="216" y2="316" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="340" y1="316" x2="376" y2="316" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="500" y1="316" x2="536" y2="316" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="32" y="372" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Opposed applications go to the Trademark Trial and Appeal Board (TTAB); the Madrid Protocol covers foreign filing.</text>
+</svg>

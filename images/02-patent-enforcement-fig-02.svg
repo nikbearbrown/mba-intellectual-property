@@ -1,0 +1,59 @@
+<!--
+  What infringement is
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 02-patent-enforcement
+  Figure: 02
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/02-patent-enforcement-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">What infringement is</title>
+  <desc>Infringement is making, using, selling, offering for sale, or importing a patented invention without permission; it comes in literal and doctrine-of-equivalents forms, plus induced and contributory liability.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="02-patent-enforcement" figure-number="02" figure-title="What infringement is" figure-slug="what-infringement-is" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/02-patent-enforcement-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">What Infringement Is</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">An unauthorized act on a product or process within the claims</text>
+
+  <!-- Central node -->
+  <rect x="260" y="92" width="180" height="64" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="116" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">Infringement</text>
+  <text x="350" y="134" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">make, use, sell, offer,</text>
+  <text x="350" y="150" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">import — without permission</text>
+
+  <!-- Literal -->
+  <rect x="40" y="215" width="190" height="70" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="135" y="239" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Literal</text>
+  <text x="135" y="257" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">matches claims</text>
+  <text x="135" y="273" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">element-for-element</text>
+
+  <!-- Doctrine of equivalents -->
+  <rect x="255" y="215" width="190" height="70" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="350" y="234" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Doctrine of</text>
+  <text x="350" y="251" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">equivalents</text>
+  <text x="350" y="269" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">same function, way, result</text>
+
+  <!-- Indirect -->
+  <rect x="470" y="215" width="190" height="70" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="565" y="234" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Indirect</text>
+  <text x="565" y="251" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">induced &amp; contributory —</text>
+  <text x="565" y="267" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">liability for enablers</text>
+
+  <line x1="300" y1="156" x2="155" y2="211" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="156" x2="350" y2="211" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="400" y1="156" x2="545" y2="211" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Bound on DoE -->
+  <rect x="255" y="320" width="190" height="50" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="350" y="342" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" font-weight="600" fill="#2a1a0e">Bounded by prosecution-</text>
+  <text x="350" y="359" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">history estoppel</text>
+  <line x1="350" y1="285" x2="350" y2="316" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+
+  <text x="32" y="396" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Broad definition stops trivial workarounds, but invites the fuzziest litigation in patent law.</text>
+</svg>

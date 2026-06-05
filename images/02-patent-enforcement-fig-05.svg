@@ -1,0 +1,74 @@
+<!--
+  The forums: federal court and PTAB
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 02-patent-enforcement
+  Figure: 05
+  Type: Timeline / progression
+  Generated: 2026-05-29
+  Source: pantry/02-patent-enforcement-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-05">
+  <title id="fig-title-05">The forums: federal court and PTAB</title>
+  <desc>Two parallel forums hear patent disputes: federal district court stages flowing to the Federal Circuit on appeal, and the faster PTAB administrative tribunal hearing validity challenges.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="02-patent-enforcement" figure-number="05" figure-title="The forums: federal court and PTAB" figure-slug="the-forums-federal-court-and-ptab" figure-type="Timeline / progression" priority="Important" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/02-patent-enforcement-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">Two Forums for Patent Disputes</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Federal district court and the PTAB run on parallel timelines</text>
+
+  <!-- Track 1: Federal court -->
+  <text x="32" y="100" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#C8102E">Federal district court</text>
+  <text x="668" y="100" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#545454">2–3+ yrs</text>
+  <line x1="32" y1="148" x2="640" y2="148" stroke="#2a1a0e" stroke-width="1"/>
+
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif">
+    <rect x="32" y="116" width="96" height="36" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+    <text x="80" y="138" text-anchor="middle" font-size="11" fill="#2a1a0e">Pleadings</text>
+
+    <rect x="148" y="116" width="96" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="196" y="138" text-anchor="middle" font-size="11" fill="#2a1a0e">Discovery</text>
+
+    <rect x="264" y="116" width="96" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="312" y="138" text-anchor="middle" font-size="11" fill="#2a1a0e">Markman</text>
+
+    <rect x="380" y="116" width="96" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="428" y="138" text-anchor="middle" font-size="11" fill="#2a1a0e">Trial</text>
+
+    <rect x="496" y="116" width="144" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="568" y="138" text-anchor="middle" font-size="11" fill="#2a1a0e">Appeal → Fed. Circuit</text>
+  </g>
+  <line x1="128" y1="134" x2="146" y2="134" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="244" y1="134" x2="262" y2="134" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="360" y1="134" x2="378" y2="134" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="476" y1="134" x2="494" y2="134" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Track 2: PTAB -->
+  <text x="32" y="232" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">PTAB (created by 2011 AIA)</text>
+  <text x="668" y="232" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#545454">12–18 mo</text>
+  <line x1="32" y1="280" x2="588" y2="280" stroke="#2a1a0e" stroke-width="1"/>
+
+  <g font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif">
+    <rect x="32" y="248" width="160" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="112" y="270" text-anchor="middle" font-size="11" fill="#2a1a0e">Petition for review</text>
+
+    <rect x="212" y="248" width="160" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="292" y="270" text-anchor="middle" font-size="11" fill="#2a1a0e">Institution decision</text>
+
+    <rect x="392" y="248" width="196" height="36" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+    <text x="490" y="270" text-anchor="middle" font-size="11" fill="#2a1a0e">Final written decision</text>
+  </g>
+  <line x1="192" y1="266" x2="210" y2="266" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="372" y1="266" x2="390" y2="266" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="32" y="312" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">IPR (novelty/obviousness) · PGR (broad, first 9 months) · CBM (business methods, sunset 2020)</text>
+
+  <!-- Parallel-proceeding note -->
+  <rect x="120" y="330" width="460" height="56" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="350" y="354" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Parallel proceedings on the same patent</text>
+  <text x="350" y="372" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">a defendant may file a PTAB challenge while litigating; the court may stay or proceed</text>
+</svg>

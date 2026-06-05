@@ -1,0 +1,63 @@
+<!--
+  4.5 Infringement: the likelihood-of-confusion test
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 04-trademark-basics
+  Figure: 05
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/04-trademark-basics-cajal.md
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-05">
+  <title id="fig-title-05">Infringement: the likelihood-of-confusion test</title>
+  <desc>Multiple Polaroid factors feed holistically into the likelihood-of-confusion test for infringement; famous marks additionally receive dilution protection by blurring or tarnishment.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="04-trademark-basics" figure-number="05" figure-title="Infringement: the likelihood-of-confusion test" figure-slug="infringement-the-likelihood-of-confusion-test" figure-type="Conceptual map" priority="Important" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/04-trademark-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="480" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="16" fill="#2a1a0e" font-weight="600">Infringement: the likelihood-of-confusion test</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">No single factor is dispositive; the Polaroid factors are weighed holistically.</text>
+
+  <!-- left: factor list -->
+  <rect x="32" y="84" width="300" height="246" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="48" y="106" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Polaroid v. Polarad (1961) factors</text>
+  <text x="48" y="132" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">1. Strength of the senior mark</text>
+  <text x="48" y="154" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">2. Similarity of the marks</text>
+  <text x="48" y="176" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">3. Similarity of goods / services</text>
+  <text x="48" y="198" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">4. Channels of trade</text>
+  <text x="48" y="220" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">5. Sophistication of buyers</text>
+  <text x="48" y="242" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">6. Defendant's intent</text>
+  <text x="48" y="264" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">7. Actual confusion</text>
+  <text x="48" y="286" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">8. Bridging the gap</text>
+  <text x="48" y="312" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454" font-style="italic">weighed together, no single factor controls</text>
+
+  <!-- center test box -->
+  <rect x="396" y="150" width="172" height="64" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="482" y="176" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Likelihood of</text>
+  <text x="482" y="193" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">confusion?</text>
+  <text x="482" y="208" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">as to source/affiliation</text>
+
+  <line x1="332" y1="200" x2="392" y2="186" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- outcome -->
+  <rect x="420" y="262" width="124" height="44" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="482" y="284" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Infringement</text>
+  <text x="482" y="299" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">if confusion likely</text>
+  <line x1="482" y1="214" x2="482" y2="258" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- dilution branch -->
+  <text x="32" y="362" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Famous marks: dilution (TDRA 2006) — no confusion required</text>
+
+  <rect x="32" y="378" width="300" height="60" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="182" y="400" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Blurring</text>
+  <text x="182" y="418" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">unrelated use weakens</text>
+  <text x="182" y="432" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">the mark's distinctiveness</text>
+
+  <rect x="356" y="378" width="300" height="60" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="506" y="400" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">Tarnishment</text>
+  <text x="506" y="418" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">unsavory/low-quality use</text>
+  <text x="506" y="432" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">harms the mark's reputation</text>
+</svg>

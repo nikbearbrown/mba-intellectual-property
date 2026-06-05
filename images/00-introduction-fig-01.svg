@@ -1,0 +1,61 @@
+<!--
+  What This Book Is
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 00-introduction
+  Figure: 01
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/00-introduction-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">What This Book Is</title>
+  <desc>A guided course teaching IP vocabulary, recurring patterns, and the discipline of checking machine output against human purpose, treating AI as fast but incomplete infrastructure.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="00-introduction" figure-number="01" figure-title="What This Book Is" figure-slug="what-this-book-is" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/00-introduction-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">What This Book Is</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">A guided course in IP concepts, workflows, and the judgment calls of the AI era</text>
+
+  <!-- Central node -->
+  <rect x="270" y="180" width="160" height="62" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="206" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">A guided IP course</text>
+  <text x="350" y="224" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">for the AI era</text>
+
+  <!-- Supporting node: teaches -->
+  <rect x="40" y="100" width="180" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="130" y="124" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Teaches vocabulary</text>
+  <text x="130" y="142" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">patterns &amp; exercises</text>
+
+  <!-- Supporting node: discipline -->
+  <rect x="40" y="262" width="180" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="130" y="286" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Checks output</text>
+  <text x="130" y="304" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">against human purpose</text>
+
+  <!-- Node: AI as infrastructure -->
+  <rect x="480" y="100" width="180" height="58" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="570" y="124" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">AI as infrastructure</text>
+  <text x="570" y="142" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">fast, useful, incomplete</text>
+
+  <!-- Takeaway node (limiting / what the human is for) -->
+  <rect x="480" y="262" width="180" height="58" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="570" y="286" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Precision about</text>
+  <text x="570" y="304" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">what the human is for</text>
+
+  <!-- Edges -->
+  <line x1="220" y1="135" x2="278" y2="186" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="220" y1="288" x2="278" y2="236" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="430" y1="200" x2="476" y2="142" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="430" y1="222" x2="476" y2="280" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="244" y="156" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">delivers</text>
+  <text x="244" y="270" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">instills</text>
+  <text x="436" y="168" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">names role of</text>
+  <text x="436" y="258" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">to sharpen</text>
+
+  <text x="32" y="400" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">The point is not to be impressed by the machine, but to be precise about what the human still owns.</text>
+</svg>

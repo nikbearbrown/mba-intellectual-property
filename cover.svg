@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" width="1600" height="2560" preserveAspectRatio="xMidYMid meet" shape-rendering="geometricPrecision">
+  <g id="background"><rect x="0" y="0" width="1600" height="2560" fill="#F5C518"/></g>
+  <g id="symbol-fragments" transform="rotate(2, 800, 800)">
+    <path d="M 230 341 L 330 274 L 480 326 L 630 298 L 780 424 L 930 302 L 1080 370 L 1230 303" fill="none" stroke="#111111" stroke-width="44" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 474 L 330 542 L 480 501 L 630 551 L 780 483 L 930 516 L 1080 396 L 1230 424" fill="none" stroke="#111111" stroke-width="50" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 604 L 330 668 L 480 584 L 630 617 L 780 521 L 930 547 L 1080 594 L 1230 644" fill="none" stroke="#D62B2B" stroke-width="56" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 752 L 330 748 L 480 817 L 630 730 L 780 713 L 930 823 L 1080 814 L 1230 786" fill="none" stroke="#111111" stroke-width="62" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 907 L 330 863 L 480 943 L 630 860 L 780 879 L 930 826 L 1080 837 L 1230 845" fill="none" stroke="#111111" stroke-width="68" stroke-linecap="butt" stroke-linejoin="miter"/>
+  </g>
+  <g id="title-letterforms">
+    <text x="120" y="1350" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#111111" textLength="1300" lengthAdjust="spacingAndGlyphs">INTRODUCTION</text>
+    <text x="120" y="1608" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#D62B2B">TO</text>
+    <text x="120" y="1866" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#111111" textLength="1300" lengthAdjust="spacingAndGlyphs">INTELLECTUAL</text>
+    <text x="120" y="2124" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#111111" textLength="1300" lengthAdjust="spacingAndGlyphs">PROPERTY</text>
+  </g>
+</svg>

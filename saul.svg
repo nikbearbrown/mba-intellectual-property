@@ -1,0 +1,74 @@
+<!--
+  4.3 The distinctiveness spectrum
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 04-trademark-basics
+  Figure: 03
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/04-trademark-basics-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-03">
+  <title id="fig-title-03">The distinctiveness spectrum</title>
+  <desc>Trademark distinctiveness runs from generic and descriptive (weak or no protection) through suggestive, arbitrary and fanciful (strong protection without secondary meaning).</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="04-trademark-basics" figure-number="03" figure-title="The distinctiveness spectrum" figure-slug="the-distinctiveness-spectrum" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/04-trademark-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="16" fill="#2a1a0e" font-weight="600">The distinctiveness spectrum</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Where a mark sits on the spectrum determines whether — and how easily — protection is available.</text>
+
+  <!-- spectrum axis -->
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="60" y="98" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">weaker</text>
+  <text x="660" y="98" text-anchor="end" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">stronger protection</text>
+
+  <!-- five category boxes -->
+  <!-- Generic -->
+  <rect x="60" y="130" width="112" height="70" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="116" y="152" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Generic</text>
+  <text x="116" y="172" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">"Aspirin," "Phone"</text>
+  <text x="116" y="188" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">never protectable</text>
+
+  <!-- Descriptive -->
+  <rect x="182" y="130" width="112" height="70" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="238" y="152" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Descriptive</text>
+  <text x="238" y="172" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">"Sharp" knives</text>
+  <text x="238" y="188" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">needs 2ndary meaning</text>
+
+  <!-- Suggestive -->
+  <rect x="304" y="130" width="112" height="70" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="360" y="152" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Suggestive</text>
+  <text x="360" y="172" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">"Coppertone"</text>
+  <text x="360" y="188" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">protectable</text>
+
+  <!-- Arbitrary -->
+  <rect x="416" y="130" width="112" height="70" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="472" y="152" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Arbitrary</text>
+  <text x="472" y="172" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">"Apple" computers</text>
+  <text x="472" y="188" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">strong</text>
+
+  <!-- Fanciful -->
+  <rect x="528" y="130" width="112" height="70" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="584" y="152" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" fill="#2a1a0e" font-weight="600">Fanciful</text>
+  <text x="584" y="172" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">"Kodak," "Exxon"</text>
+  <text x="584" y="188" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">strongest</text>
+
+  <!-- trade-off band -->
+  <text x="32" y="248" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e" font-weight="600">The trade-off across the spectrum</text>
+
+  <rect x="60" y="262" width="290" height="60" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="76" y="284" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">Generic / descriptive end:</text>
+  <text x="76" y="302" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">immediate comprehensibility,</text>
+  <text x="76" y="316" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">little or no protection.</text>
+
+  <rect x="370" y="262" width="270" height="60" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="386" y="284" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#2a1a0e">Fanciful end:</text>
+  <text x="386" y="302" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">strong protection, but needs</text>
+  <text x="386" y="316" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">marketing to teach the word.</text>
+
+  <text x="32" y="364" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Most successful brands sit at the suggestive-to-fanciful end; descriptive marks fight harder for protection.</text>
+</svg>

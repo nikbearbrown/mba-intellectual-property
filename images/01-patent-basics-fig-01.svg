@@ -1,0 +1,64 @@
+<!--
+  Opening: The patent that lit the world
+  Book: Introduction to Intellectual Property: with LLMs
+  Chapter: 01-patent-basics
+  Figure: 01
+  Type: Conceptual map
+  Generated: 2026-05-29
+  Source: pantry/01-patent-basics-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">Opening: The patent that lit the world</title>
+  <desc>Edison's 1880 lamp patent embodies the patent bargain: public disclosure plus a temporary exclusive right yields downstream invention by Tesla, Brush and others.</desc>
+  <metadata>
+    <cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Introduction to Intellectual Property: with LLMs" book-slug="mba-intellectual-property" chapter="01-patent-basics" figure-number="01" figure-title="Opening: The patent that lit the world" figure-slug="opening-the-patent-that-lit-the-world" figure-type="Conceptual map" priority="Critical" author="Humanitarians AI" date-generated="2026-05-29" source-file="pantry/01-patent-basics-cajal.md"/>
+  </metadata>
+  <rect x="0" y="0" width="700" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond','Garamond',Georgia,serif" font-size="18" fill="#2a1a0e">The Patent That Lit the World</text>
+  <text x="32" y="60" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">U.S. Patent No. 223,898 — Edison's incandescent lamp, granted 1880</text>
+
+  <!-- Central node -->
+  <rect x="270" y="98" width="160" height="64" fill="#FFFFFF" stroke="#C8102E" stroke-width="2"/>
+  <text x="350" y="124" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="13" font-weight="600" fill="#2a1a0e">The patent bargain</text>
+  <text x="350" y="142" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">monopoly for disclosure</text>
+
+  <!-- Inventor gives: disclosure -->
+  <rect x="40" y="98" width="180" height="56" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="130" y="122" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Inventor discloses</text>
+  <text x="130" y="140" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">drawings + text made public</text>
+
+  <!-- Inventor receives: exclusivity -->
+  <rect x="480" y="98" width="180" height="56" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="570" y="122" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Inventor receives</text>
+  <text x="570" y="140" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">17-yr exclusive right</text>
+
+  <line x1="220" y1="126" x2="266" y2="126" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="430" y1="126" x2="476" y2="126" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="222" y="92" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">gives</text>
+  <text x="432" y="92" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">gets</text>
+
+  <!-- Downstream invention (active state, supporting) -->
+  <rect x="120" y="222" width="200" height="62" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="220" y="246" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Downstream invention</text>
+  <text x="220" y="264" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">Tesla, Brush, GE design around</text>
+
+  <!-- Society benefits -->
+  <rect x="380" y="222" width="200" height="62" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="480" y="246" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">Society benefits</text>
+  <text x="480" y="264" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">spread knowledge + later access</text>
+
+  <line x1="320" y1="162" x2="240" y2="218" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="380" y1="162" x2="460" y2="218" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="248" y="196" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">accelerates</text>
+  <text x="436" y="196" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="10" fill="#545454">delivers to</text>
+
+  <!-- Paradox callout -->
+  <rect x="120" y="320" width="460" height="54" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <text x="350" y="344" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="12" font-weight="600" fill="#2a1a0e">The paradox: a monopoly that accelerated innovation</text>
+  <text x="350" y="362" text-anchor="middle" font-family="'Inter',-apple-system,'Helvetica Neue',sans-serif" font-size="11" fill="#545454">forced disclosure + protected commercialization + the chase to design around</text>
+  <line x1="350" y1="284" x2="350" y2="316" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+</svg>
